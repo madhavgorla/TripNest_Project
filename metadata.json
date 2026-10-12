@@ -1,0 +1,6 @@
+{
+  "name": "TripNest",
+  "description": "Luxury travel booking, interactive GPS discovery radar, and real-time AI tourist concierge.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
