@@ -1,2 +1,1 @@
-# backend\harsha-backend-api
-Sub-module for TripNest platform.
+# harsha-backend-api Sub-Module
