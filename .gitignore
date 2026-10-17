@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.data/
+dist/
+# Maven build output
+backend-java/target/

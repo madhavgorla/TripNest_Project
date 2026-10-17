@@ -1,2 +1,1 @@
-# frontend\shravani-trip-dashboard
-Sub-module for TripNest platform.
+# shravani-trip-dashboard Sub-Module
