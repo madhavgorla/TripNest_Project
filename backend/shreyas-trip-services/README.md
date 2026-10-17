@@ -1,2 +1,1 @@
-# backend\shreyas-trip-services
-Sub-module for TripNest platform.
+# shreyas-trip-services Sub-Module

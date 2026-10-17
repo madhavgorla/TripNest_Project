@@ -1,2 +1,1 @@
-# frontend\lasya-group-travel-ui
-Sub-module for TripNest platform.
+# lasya-group-travel-ui Sub-Module
