@@ -1,2 +1,2 @@
-# frontend\1-auth-ui
+# database\madhav-database-schema
 Sub-module for TripNest platform.

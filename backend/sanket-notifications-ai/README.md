@@ -1,2 +1,2 @@
-# frontend\7-vault-booking-ui
+# backend\sanket-notifications-ai
 Sub-module for TripNest platform.

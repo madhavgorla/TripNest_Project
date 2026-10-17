@@ -1,2 +1,2 @@
-# backend\8-backend-api
+# frontend\navya-auth-ui
 Sub-module for TripNest platform.

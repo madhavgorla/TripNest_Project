@@ -1,2 +1,2 @@
-# frontend\5-budget-expenses-ui
+# frontend\thripura-itinerary-ui
 Sub-module for TripNest platform.

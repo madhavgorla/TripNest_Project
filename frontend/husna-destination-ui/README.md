@@ -1,2 +1,2 @@
-# backend\10-trip-services
+# frontend\husna-destination-ui
 Sub-module for TripNest platform.

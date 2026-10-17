@@ -1,2 +1,2 @@
-# frontend\6-group-travel-ui
+# backend\shreyas-trip-services
 Sub-module for TripNest platform.

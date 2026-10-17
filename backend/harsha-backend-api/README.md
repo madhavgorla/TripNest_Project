@@ -1,2 +1,2 @@
-# backend\11-notifications-ai
+# backend\harsha-backend-api
 Sub-module for TripNest platform.

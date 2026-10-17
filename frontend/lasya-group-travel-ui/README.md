@@ -1,2 +1,2 @@
-# database\12-database-schema
+# frontend\lasya-group-travel-ui
 Sub-module for TripNest platform.
