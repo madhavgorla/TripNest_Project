@@ -1,2 +1,1 @@
-# frontend\meghana-budget-expenses-ui
-Sub-module for TripNest platform.
+# meghana-budget-expenses-ui Sub-Module
