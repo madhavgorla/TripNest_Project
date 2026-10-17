@@ -1,2 +1,1 @@
-# frontend\husna-destination-ui
-Sub-module for TripNest platform.
+# husna-destination-ui Sub-Module

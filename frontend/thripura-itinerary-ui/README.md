@@ -1,2 +1,1 @@
-# frontend\thripura-itinerary-ui
-Sub-module for TripNest platform.
+# thripura-itinerary-ui Sub-Module
