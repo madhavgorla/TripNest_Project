@@ -1,2 +1,1 @@
-# backend\sanket-notifications-ai
-Sub-module for TripNest platform.
+# sanket-notifications-ai Sub-Module
